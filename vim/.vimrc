@@ -113,20 +113,9 @@ highlight MatchParen ctermbg=4
 
 "{{{Look and Feel
 
-set cul                                           # highlight current line
-hi CursorLine term=none cterm=none ctermbg=3      # adjust color
+"highlight current line
+set cul
 
-
-" Favorite Color Scheme
-if has("gui_running")
-   colorscheme inkpot
-   " Remove Toolbar
-   set guioptions-=T
-   "Terminus is AWESOME
-   set guifont=Terminus\ 9
-else
-   colorscheme metacosm
-endif
 
 "Status line gnarliness
 set laststatus=2
