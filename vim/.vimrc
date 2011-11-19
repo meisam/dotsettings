@@ -90,8 +90,10 @@ set ignorecase
 " And so is Artificial Intellegence!
 set smartcase
 
-" This is totally awesome - remap jj to escape in insert mode.  You'll never type jj anyway, so it's great!
+" This is totally awesome - remap jj and kk to escape in insert mode.  You'll never type jj and kk anyway, so it's great!
+
 inoremap jj <Esc>
+inoremap kk <Esc>
 
 nnoremap JJJJ <Nop>
 
@@ -257,8 +259,8 @@ inoremap <expr> <c-n> pumvisible() ? "\<lt>c-n>" : "\<lt>c-n>\<lt>c-r>=pumvisibl
 inoremap <expr> <m-;> pumvisible() ? "\<lt>c-n>" : "\<lt>c-x>\<lt>c-o>\<lt>c-n>\<lt>c-p>\<lt>c-r>=pumvisible() ? \"\\<lt>down>\" : \"\"\<lt>cr>"
 
 " Swap ; and :  Convenient.
-nnoremap ; :
-nnoremap : ;
+" nnoremap ; : " It is cool, but I don;t like it
+" nnoremap : ;
 
 " Fix email paragraphs
 nnoremap <leader>par :%s/^>$//<CR>
@@ -277,11 +279,7 @@ let Tlist_Inc_Winwidth = 0
 
 let g:rct_completion_use_fri = 1
 "let g:Tex_DefaultTargetFormat = "pdf"
-let g:Tex_ViewRule_pdf = "evince"
+let g:Tex_ViewRule_pdf = "kpdf"
 
 filetype plugin indent on
 syntax on
-
-"remap highly used keymaps to less used but easy to type keys
-nore ; :
-nore , ;
