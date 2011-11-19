@@ -277,7 +277,7 @@ let Tlist_Inc_Winwidth = 0
 
 let g:rct_completion_use_fri = 1
 "let g:Tex_DefaultTargetFormat = "pdf"
-let g:Tex_ViewRule_pdf = "kpdf"
+let g:Tex_ViewRule_pdf = "evince"
 
 filetype plugin indent on
 syntax on
