@@ -1,0 +1,16 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="var to sring">
+      <typing text-keycode="73:0">i</typing>
+      <action id="VimShortcutKeyAction" />
+      <typing text-keycode="65:1">A</typing>
+      <action id="VimShortcutKeyAction" />
+      <action id="VimShortcutKeyAction" />
+      <action id="VimShortcutKeyAction" />
+      <typing text-keycode="44:0">,</typing>
+      <action id="VimShortcutKeyAction" />
+      <action id="VimShortcutKeyAction" />
+      <typing text-keycode="66:0;73:0">bi</typing>
+    </macro>
+  </component>
+</application>

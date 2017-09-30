@@ -1,0 +1,4 @@
+IdeaVIM
+QuickJump
+SBT
+org.intellij.scala

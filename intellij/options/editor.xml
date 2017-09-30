@@ -1,0 +1,8 @@
+<application>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="PREVIEW" />
+    <option name="IS_CARET_INSIDE_TABS" value="true" />
+    <option name="IS_WHITESPACES_SHOWN" value="true" />
+    <option name="PRESELECT_RENAME" value="false" />
+  </component>
+</application>

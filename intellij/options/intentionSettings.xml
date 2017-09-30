@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Java/Declaration/Replace implements with static import" />
+    <ignoreAction name="Scala/Argument Conversion/Convert to block expression" />
+  </component>
+</application>

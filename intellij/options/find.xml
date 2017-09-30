@@ -1,0 +1,42 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scala" />
+    <recentFileMasks>
+      <mask>log4j.p</mask>
+      <mask>log4j.pr</mask>
+      <mask>log4j.pro</mask>
+      <mask>log4j.prop</mask>
+      <mask>log4j.prope</mask>
+      <mask>log4j.proper</mask>
+      <mask>log4j.propert</mask>
+      <mask>log4j.properti</mask>
+      <mask>log4j.propertie</mask>
+      <mask>log4j.properties</mask>
+      <mask>om</mask>
+      <mask>o</mask>
+      <mask>pom.xmo</mask>
+      <mask>l</mask>
+      <mask>d</mask>
+      <mask>*.</mask>
+      <mask>*.sc</mask>
+      <mask>*.scala,*.java</mask>
+      <mask>p</mask>
+      <mask>po</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.x</mask>
+      <mask>pom.xm</mask>
+      <mask>pom.xml</mask>
+      <mask>*</mask>
+      <mask>*.s</mask>
+      <mask>*.sca</mask>
+      <mask>*.scal</mask>
+      <mask>*.scala</mask>
+    </recentFileMasks>
+  </component>
+</application>

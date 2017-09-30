@@ -1,0 +1,21 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="Maven.ExecuteGoal">
+        <abbreviation name="mvn" />
+      </action>
+      <action id="EditorIncreaseFontSize">
+        <abbreviation name="incfont" />
+      </action>
+      <action id="CopyReference">
+        <abbreviation name="cpr" />
+      </action>
+      <action id="Maven_e7db20b2server9a13b4a8package">
+        <abbreviation name="pkg server" />
+      </action>
+      <action id="HideAllWindows">
+        <abbreviation name="max" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
