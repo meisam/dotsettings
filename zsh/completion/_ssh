@@ -1,5 +1,5 @@
 #compdef ssh
 
  _arguments "1:X Forwarding option:(-X)"\
-     "*:Remote Machines:(stdlinux.cse.ohio-state.edu sunshine.cse.ohio-state.edu frost.cse.ohio-state.edu)"\
+     "*:Remote Machines:(server1.com server2.com server3.org server4.io)"\
 
