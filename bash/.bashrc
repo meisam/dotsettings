@@ -18,5 +18,4 @@ alias q=exit
 alias l=ls\ -al
 
 # User specific aliases and functions
-PATH=/home/1/fathi/bin:$PATH;
 export PATH
